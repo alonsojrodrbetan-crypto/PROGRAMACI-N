@@ -12,8 +12,7 @@ public class Articulo {
     private int cantidad;
 
 //Precio de cada unidad    
-    private double precioUnitario;
-    private int tiempoPreparacion; 
+    private double precioUnitario; 
 
     
 //Constructor de la clase
